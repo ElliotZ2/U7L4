@@ -11,6 +11,8 @@ public class Main {
         names.add("Tim");
         names.add("James");
 
+        System.out.println("test");
+
 // before:
         System.out.println(names);
 
